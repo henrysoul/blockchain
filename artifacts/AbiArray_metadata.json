@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "myString",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"AbiArray.sol": "AbiArray"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"AbiArray.sol": {
+			"keccak256": "0xa93356bc9c03ead3f29ec409ea2a3e6d211a69ed3e89508737cec3dc53885bb0",
+			"urls": [
+				"bzz-raw://02a2234dab0b296d9c46355448ec8eb77f33642042daea458fb26b77c13d7379",
+				"dweb:/ipfs/QmWkJgrYbQwijCzvAPpDjXGHiBLV8SVB6LrnNSzvCPkUYo"
+			]
+		}
+	},
+	"version": 1
+}
