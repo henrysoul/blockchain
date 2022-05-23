@@ -5,7 +5,7 @@ import "./Owned.sol";
 contract Modifier is Owned{
     mapping(address=>uint) public tokenBalance;
     uint tokenPrice = 1 ether;
-
+     
     constructor() public {
         tokenBalance[owner]= 100;
     }

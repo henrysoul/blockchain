@@ -97,10 +97,10 @@
 	},
 	"sources": {
 		"Modifier.sol": {
-			"keccak256": "0xddd590e561121ea6e8139d22c6819da951e1588a358694022125657a9cc908d4",
+			"keccak256": "0xd6a5c8ef332b415b93f9658962f7235407d9c14fd9e067aed76e910a7cf5446b",
 			"urls": [
-				"bzz-raw://920d15ad9392efdc50a98d4dcd8a33bbba2dd6447388abe15e0442a6d46cac80",
-				"dweb:/ipfs/QmVcTevbRB4H1GPxkpgaoFcSpGhZGgUMQCW4tfbJGTAQ8z"
+				"bzz-raw://3d9cb65b9bc9c6fb88b24addfd1f2a6174c73d622efbcb813ddbd6a3a7d872bd",
+				"dweb:/ipfs/QmX1GCsrQEhUrfT7E6TexranjtvnfZcZ3F5nG2xpiYvzUf"
 			]
 		},
 		"Owned.sol": {
